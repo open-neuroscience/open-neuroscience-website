@@ -1,0 +1,2 @@
+"x"
+"problem with https://github.com/Saran-nns/PySORN_0.1/blob/master/v0.1.0/doc/images/neuralcorrelationall.png"

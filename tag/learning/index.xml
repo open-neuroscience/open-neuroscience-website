@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Learning | Open Neuroscience</title><link>https://open-neuroscience.com/tag/learning/</link><atom:link href="https://open-neuroscience.com/tag/learning/index.xml" rel="self" type="application/rss+xml"/><description>Learning</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate><image><url>https://open-neuroscience.com/media/openneuroscience_logo_dark.svg</url><title>Learning</title><link>https://open-neuroscience.com/tag/learning/</link></image><item><title>School of Data</title><link>https://open-neuroscience.com/post/school_of_data/</link><pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate><guid>https://open-neuroscience.com/post/school_of_data/</guid><description>&lt;p>School of Data is a global network that aims to train civil society in the practical use of the large amount of data available nowadays.&lt;/p>
+&lt;p>The network is composed of individuals and organizations that carry out training programs, hands-on courses and other activities in different regions and countries of the world. They also offer fellowships and experts programs to prepare new people in different parts of the world to continue with the training process and the application of the ideas of School of Data organization.&lt;/p>
+&lt;p>In the web page you can also find open material about basic concepts of data analysis and the methodological approach considered appropriate.&lt;/p>
+&lt;p>The school in numbers&lt;/p>
+&lt;ul>
+&lt;li>more than 6000 people trained&lt;/li>
+&lt;li>44 learning modules&lt;/li>
+&lt;li>13 member organizations&lt;/li>
+&lt;li>100 individual members&lt;/li>
+&lt;li>34 countries represented&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>For more information visit the webpage:&lt;/strong> &lt;a href="https://schoolofdata.org/">https://schoolofdata.org/&lt;/a>&lt;/p></description></item><item><title>Web portals</title><link>https://open-neuroscience.com/post/webportals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://open-neuroscience.com/post/webportals/</guid><description>&lt;p>Here are some open learning sources, they go from sites that interactively teach one how to code, to efforts in publishing free college textbooks.&lt;/p>
+&lt;p>&lt;a href="https://www.khanacademy.org/" target="_blank" rel="noopener">Khan Academy&lt;/a>: Is composed of a series of lectures and exercises on a wide range of topics from basic multiplication to linear algebra and information theory. A great place to learn those things you missed in high school.&lt;/p>
+&lt;p>&lt;a href="http://openstaxcollege.org/" target="_blank" rel="noopener">Openstax College:&lt;/a> is an initiative that is producing free, downloadable college level textbooks initially in sociology, physics, biology and anatomy and Physiology.&lt;/p>
+&lt;p>&lt;a href="http://www.codecademy.com/#!/exercises/0" target="_blank" rel="noopener">CodeAcademy:&lt;/a> Teaches several programming languages, including python, javascript, etc. in an interactive manner. From the first lesson one is already writing meaningful code to solve exercises.&lt;/p>
+&lt;p>&lt;a href="http://software-carpentry.org/" target="_blank" rel="noopener">Software Carpentry:&lt;/a> Is a project that helps scientists to write better code and increase their productivity by teaching them basic computing skills, such as version control, database systems, code with proper documentation and so on. They offer bootcamps, so check their website to see if there are any near you!&lt;/p>
+&lt;p>&lt;a href="http://www.code.org/" target="_blank" rel="noopener">Code.org:&lt;/a> Aims to teach programming to everyone, by putting learning sources together, such as codeacademy, khanacademy and so on. Considering that mostly everything now days is run by a computer, this is a great idea.&lt;/p>
+&lt;p>&lt;a href="https://www.edx.org/" target="_blank" rel="noopener">edx.org&lt;/a>: An initiative from Harvard and MIT to make their lectures (and from other universities) available free online, the nice thing is that they range from humanities to computer science, meaning that this is useful event if it is only for you to go a little bit depeer into that “old forgotten hobby/interest in something that is not neuroscience” you once had.&lt;/p>
+&lt;p>&lt;a href="https://www.coursera.org/" target="_blank" rel="noopener">Coursera&lt;/a>: Aggregates online courses from several universities. It offers certificates for people who complete the courses.&lt;/p>
+&lt;p>&lt;a href="https://www.sparkfun.com/static/about" target="_blank" rel="noopener">Sparkfun&lt;/a> is a retail store that sells eletronic components for hobbyists and DIY enthusiasts. But they also keep a very useful &lt;a href="https://learn.sparkfun.com/tutorials" target="_blank" rel="noopener">tutorial section&lt;/a> where one can find lessons on basic eletronics, installing arduino libraries, infrared communication, and designing PCB boards.&lt;/p>
+&lt;p>&lt;a href="http://www.openoptogenetics.org/index.php?title=Main_Page" target="_blank" rel="noopener">OpenOptogenetics:&lt;/a> is a wiki page designed to promote knowledge and know-how exchange for optogenetic applications.&lt;/p>
+&lt;p>&lt;a href="http://openwetware.org/wiki/Main_Page" target="_blank" rel="noopener">Open Wetware wiki&lt;/a> is a page dedicated to gathering information and know-how in biology and biological engineering. They provide a place to organize your own information, store labnotebooks and collaborate with other individuals. There is an article released in Nature (2008) about &lt;a href="http://www.nature.com/news/2008/080903/full/455022a.html" target="_blank" rel="noopener">this project.&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://arxiv.org/abs/1403.7439" target="_blank" rel="noopener">OpenPicoAmp&lt;/a>: is an open source planar lipid bilayer amplifier designed to teach undergrad students about electro-chemical properties of membranes. A paper describing the project, together with bill of materials and more can be found &lt;a href="http://arxiv.org/abs/1403.7439" target="_blank" rel="noopener">here&lt;/a> (for some reason this link did not open on Firefox. Try Chromium or Chrome instead). Also, a description on thingiverse can found &lt;a href="http://www.thingiverse.com/thing:292678" target="_blank" rel="noopener">here.&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://www.pyroelectro.com/" target="_blank" rel="noopener">PyroElectro&lt;/a>: a page for electronics and robotics enthusiasts, they have &lt;a href="http://www.pyroelectro.com/edu/" target="_blank" rel="noopener">tutorials on several topics&lt;/a>, such as modern electronics. microcontrollers and FPGA.&lt;/p>
+&lt;p> &lt;/p></description></item><item><title>YouTube as a resource for Open Science Hardware</title><link>https://open-neuroscience.com/post/youtube_as_a_resource_for_open_science_hardware/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://open-neuroscience.com/post/youtube_as_a_resource_for_open_science_hardware/</guid><description>&lt;p>When working with Open Hardware, Google search will become your friend, whether you want it or not. Other search engines, such as DuckDuckGo won’t cut it (it is much harder to find what you are looking for, especially in cases where you don’t know all specific terms). Google is a fantastic tool to find answers. But if you are new in electronic development, and in programming, or even if you are going to work in a new subfield, you may not even know what you don’t know. What to search for if you don’t know what the problem or component is called? Here I’d like to suggest YouTube. You want to get involved with Arduinos and a interesting sensor. Go and search for ‘Arduino &lt;em>interesting sensor&lt;/em>’ on YouTube. There are many videos, long and short, explaining in more or less depth, more or less funny, what you can expect, and more importantly what the used components  are called. I normally start by watching a few short videos to make sure that system is what I’m looking for. Afterwards, I look into several longer, deeper videos. You will get a great overview of components and alternatives regarding code and hardware.&lt;/p>
+&lt;p>Here I suggest some YouTube channels that constantly output good content, going across all kind of sensors, wireless communication as well as science and hacking in a more general sense. They can also be seen as evening entertainment, for me much better than dozing off to some soap opera.&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="electroboom">ElectroBOOM&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA">https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA&lt;/a>&lt;/p>
+&lt;p>Mehdi Sadaghdar, the protagonist of this channel explains in a very unique way how not to get electrocuted in any possible way. It trains the viewer what to keep in mind when working with electronics. There are many ways to fry your circuit, he will show them all in a entertaining way. It seems repetitive after a whole but that will just help your brain to keep those bullet points!&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="greatscott">GreatScott&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ">https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ&lt;/a>&lt;/p>
+&lt;p>Basic arduino and electronic projects, mosty day to day useful and very reproducible. His series  ‘Electronics Basics’ explains fantastically electronic components like transistors and diodes to name a few. Easy to digest and a lot can be learned.&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="codys-lab">Cody’s Lab&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/user/theCodyReeder/videos">https://www.youtube.com/user/theCodyReeder/videos&lt;/a>&lt;/p>
+&lt;p>Cody is the Nr 1 in entertaining education on YouTube. He does all kind of experiments from geology, chemistry biology to gardening and everything in between. His passion is infectious and his style not teachy at all, you just tag along a fun quarter hour of science and ideas.&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="afrotechmods">Afrotechmods&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/user/Afrotechmods">https://www.youtube.com/user/Afrotechmods&lt;/a>&lt;/p>
+&lt;p>A nice source for Arduino knowledge and inspiration! Great videos about basic electronics and some basic elements like power supplies, LEDs and transistors as well. There are well explained circuits about filters and op amps for example.&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="marco-reps">Marco Reps&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/user/reppesis/videos">https://www.youtube.com/user/reppesis/videos&lt;/a>&lt;/p>
+&lt;p>A very diverse set of videos about electronics and hacking with great explanations. A good source for inspiration and entertainment, oscilloscopes, lasers and soldering are some of his main topics.&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="applied-science">Applied Science&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/user/bkraz333/videos">https://www.youtube.com/user/bkraz333/videos&lt;/a>&lt;/p>
+&lt;p>IMHO the most advanced scientist on YouTube. X-ray, water cutter, electron microscopy and others, in depth explanation how he build or hacked several machines that seem way to complex / delicate to open up. His reverse engineering skills are helpful, it applies to how we could approach devices when we want to fix or understand them.&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="the-thought-emporium">The Thought Emporium&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/user/TheChemlife/videos">https://www.youtube.com/user/TheChemlife/videos&lt;/a>&lt;/p>
+&lt;p>A group of scientists hacking advanced scientific machinery with household items, listening to satellites, dry freezing, fluorescence dyes and how to become a cyborg.&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="the-post-apocalyptic-inventor">The Post Apocalyptic Inventor&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/videos">https://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/videos&lt;/a>&lt;/p>
+&lt;p>He hacks household items to harvest their motors and other hard to come by components. Lots of useful explanations on how to use metal working machines and how to build your own. A lot of entertainment around basic electronics.&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="andreas-spiess">Andreas Spiess&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ/videos">https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ/videos&lt;/a>&lt;/p>
+&lt;p>THE source of information if you want to learn wireless communication with Arduinos. Andreas gives very well structured and explained lectures about the ESP32, an Arduino with WiFi and other wireless capabilities. He enlightens every aspect about hardware and software on this topic. There are also many videos about all kind of interesting sensors.&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="eevblog">EEVblog&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/user/EEVblog/videos">https://www.youtube.com/user/EEVblog/videos&lt;/a>&lt;/p>
+&lt;p>I will be honest, the videos are really long and very deep and technical. But if you need some information on a specific topic and his channel has a relevant video, that video will contain all the information you will need. If you are already trying to get into PCB design, watch his videos, all of them, over and over again, you will pick up all the rules and tricks to keep im mind when designing yourself.&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="bitluni8217s-lab">bitluni’s lab&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/user/bitlunislab/videos">https://www.youtube.com/user/bitlunislab/videos&lt;/a>&lt;/p>
+&lt;p>Good videos about Arduino in the world of internet of things, making electronics in your house remote controlled and automatic will nicely translate into the lab as well.&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="ave">AvE&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/user/arduinoversusevil/videos">https://www.youtube.com/user/arduinoversusevil/videos&lt;/a>&lt;/p>
+&lt;p>Entertainment in the first place, but be aware of his potty mouth, not everyone likes it. If you do, keep on watching. He mostly dissembles power tools and evaluates their build with focus on the machine engineering side – is the housing sufficiently stable, and electronically, are the components capable of what the label advertises? After a good amount of videos you get a good grasp on how engineering works in general, how they think. He helps to understand that you don’t need to be afraid to open up devices if they break or if you want to interfere with them. there are patterns and regularities that make all those machines somewhat self explanatory.&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="forcetronics">ForceTronics&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/channel/UCNd_fNspAczm8UoE2ay7K1Q/videos">https://www.youtube.com/channel/UCNd_fNspAczm8UoE2ay7K1Q/videos&lt;/a>&lt;/p>
+&lt;p>From easy to advanced and mostly around Arduino and PCB design, also really good videos about soldering including helpful tips on SMD soldering. All ind of tutorials about sensors and times, protocols and wifi stuff.&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="tom-scott">Tom Scott&lt;/h2>
+&lt;p>&lt;a href="https://www.youtube.com/user/enyay/videos">https://www.youtube.com/user/enyay/videos&lt;/a>&lt;/p>
+&lt;p>No Arduino, no electronics just science and curiosity. Short professionally produced videos about various topics space, computers, technology, science and more.&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="if-you-know-all-of-that-already-8230">If you know all of that already …&lt;/h2>
+&lt;h3 id="kerrywong">KerryWong&lt;/h3>
+&lt;p>&lt;a href="https://www.youtube.com/user/KerryWongBlog/videos">https://www.youtube.com/user/KerryWongBlog/videos&lt;/a>&lt;/p>
+&lt;p>Lots of interesting and exotic laboratory electronics testing equipment and some more basic videos.&lt;/p>
+&lt;p> &lt;/p>
+&lt;h3 id="thesignalpath">TheSignalPath&lt;/h3>
+&lt;p>&lt;a href="https://www.youtube.com/user/TheSignalPathBlog/videos">https://www.youtube.com/user/TheSignalPathBlog/videos&lt;/a>&lt;/p>
+&lt;p>Really professional high frequency stuff, loang and in depth. if you are into that or you just want to see realy sexy PCBs give it a go!&lt;/p></description></item></channel></rss>
