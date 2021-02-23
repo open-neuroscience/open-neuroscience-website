@@ -1,2 +1,0 @@
-"x"
-"problem with https://github.com/davidbjanes/hsst/blob/master/Documentation/Figure1.pdf"
