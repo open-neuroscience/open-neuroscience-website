@@ -1,0 +1,2 @@
+"x"
+"problem with https://raw.githubusercontent.com/napari/napari/master/resources/icon.ico"
