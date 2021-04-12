@@ -22,26 +22,7 @@
 &lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
 &lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
 &lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>Metrics</title><link>https://open-neuroscience.com/metrics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://open-neuroscience.com/metrics/</guid><description>&lt;h4 id="open-neuroscience-visitors-page-views-twitte-engagement-and-countries">Open Neuroscience visitors, page views, twitte engagement, and countries:&lt;/h4>
-&lt;p>&lt;img src="world_map.png" alt="">
-&lt;img src="cumulative_views_tweet.png" alt="">&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>&lt;/th>
-&lt;th>&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>&lt;img src="page_views.png" alt="">&lt;/td>
-&lt;td>&lt;img src="unique_visitors.png" alt="">&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Since May 2020 we are using &lt;a href="https://plausible.io" target="_blank" rel="noopener">plausible.io&lt;/a> for our analytics. This is an Open Source system that respect users privacy (does not use cookies and is GDPR compliant).&lt;/p>
-&lt;p>We, of course, have our stats publicly available &lt;a href="https://plausible.io/open-neuroscience.com?period=12mo" target="_blank" rel="noopener">here&lt;/a>&lt;/p></description></item><item><title>Example Talk</title><link>https://open-neuroscience.com/talk/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://open-neuroscience.com/talk/example/</guid><description>&lt;div class="alert alert-note">
+&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>Example Talk</title><link>https://open-neuroscience.com/talk/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://open-neuroscience.com/talk/example/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
@@ -1672,7 +1653,50 @@ color: navy;
 &lt;p>&lt;a href="http://openeuroscience.com/hardware-projects/open-prosthetics-and-robotics/fingertip-laser-sensor/" title="Fingertip laser sensor" target="_blank" rel="noopener">Fingertip laser sensor&lt;/a>&lt;/p>
 &lt;p>&lt;a href="http://openeuroscience.com/hardware-projects/open-prosthetics-and-robotics/takktile/" title="Takktile" target="_blank" rel="noopener">takktile&lt;/a>&lt;/p></description></item><item><title>Backyard Brains</title><link>https://open-neuroscience.com/post/backyard_brains/</link><pubDate>Tue, 29 Jan 2013 00:00:00 +0000</pubDate><guid>https://open-neuroscience.com/post/backyard_brains/</guid><description>&lt;p>&lt;a href="https://backyardbrains.com/" target="_blank" rel="noopener">Backyard brains&lt;/a> started out producing low cost, portable, electrophysiology systems to bring neuroscience to classrooms and help promote it.&lt;/p>
 &lt;p>“Backyard brains wants to be for neuroscience, what the telescope is for astronomers” – meaning that the idea is that with a couple of hundred dollars anyone can get one of these recording systems and start doing experiments, like amateur astronomers can buy telescopes and start observing the cosmos.&lt;/p>
-&lt;iframe width="790" height="444" src="https://www.youtube.com/embed/-mKen7tCDCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe></description></item><item><title>10$ smartphone microscope</title><link>https://open-neuroscience.com/post/10_smartphone_microscope/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://open-neuroscience.com/post/10_smartphone_microscope/</guid><description>&lt;p>This &lt;a href="http://www.instructables.com/id/10-Smartphone-to-digital-microscope-conversion/%20how%20to%20use%20a%20smartphone%20for%20big%20amplifications" target="_blank" rel="noopener">neat little project&lt;/a> uses some plexi-glass, lens extracted from a laser pointer to harvest the power of smartphone cameras for some very big amplifications! Yoshinok manged to see cell plasmolysis and some other cool features with it.&lt;/p>
+&lt;iframe width="790" height="444" src="https://www.youtube.com/embed/-mKen7tCDCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe></description></item><item><title/><link>https://open-neuroscience.com/metrics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://open-neuroscience.com/metrics/</guid><description>&lt;h1 id="metrics">Metrics&lt;/h1>
+&lt;p>Last Update: 2021-04-11&lt;/p>
+&lt;p>We use &lt;a href="plausible.io">plausible.io&lt;/a> for our analytics. This is an Open
+Source system that respect users privacy (does not use cookies and is
+GDPR compliant).&lt;/p>
+&lt;p>Our website stats publicly available at plausible.io, you can check them
+&lt;a href="https://plausible.io/open-neuroscience.com?period=12mo" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;p>Being user-driven means we have to pay close attention at how our
+audience interacts with our content. This includes the website, our
+&lt;a href="twitter.com/openneurosci">Twitter account&lt;/a> , and our &lt;a href="https://www.youtube.com/channel/UCHPvi_HaEU7OQgXQBh9ECvQ" target="_blank" rel="noopener">YouTube
+Channel&lt;/a> ,
+where we host video content such us our Seminar Series Streaming.&lt;/p>
+&lt;h3 id="website-analytics">Website Analytics&lt;/h3>
+&lt;p>&lt;img src="unnamed-chunk-3-1.png" alt="">&lt;!-- -->&lt;/p>
+&lt;p>&lt;img src="unnamed-chunk-4-1.png" alt="">&lt;!-- -->&lt;/p>
+&lt;p>&lt;img src="unnamed-chunk-5-1.png" alt="">&lt;!-- -->&lt;/p>
+&lt;h4 id="maps">Maps&lt;/h4>
+&lt;p>&lt;img src="unnamed-chunk-6-1.png" alt="">&lt;!-- -->&lt;/p>
+&lt;p>&lt;img src="unnamed-chunk-8-1.png" alt="">&lt;!-- -->&lt;/p>
+&lt;p>&lt;img src="unnamed-chunk-10-1.png" alt="">&lt;!-- -->&lt;/p>
+&lt;p>These are the days with most visits to the site&lt;/p>
+&lt;pre>&lt;code>## # A tibble: 26 x 3
+## # Groups: code [4]
+## Date code Visitors
+## &amp;lt;date&amp;gt; &amp;lt;chr&amp;gt; &amp;lt;dbl&amp;gt;
+## 1 2020-07-07 USA 51
+## 2 2020-07-22 USA 32
+## 3 2020-07-24 USA 32
+## 4 2021-03-24 USA 29
+## 5 2020-07-08 USA 28
+## 6 2020-10-01 USA 28
+## 7 2020-10-05 USA 28
+## 8 2020-11-12 USA 28
+## 9 2021-02-22 USA 28
+## 10 2020-10-06 USA 26
+## # … with 16 more rows
+&lt;/code>&lt;/pre>
+&lt;h3 id="twitter-analytics">Twitter Analytics&lt;/h3>
+&lt;p>&lt;img src="unnamed-chunk-11-1.png" alt="">&lt;!-- -->&lt;img src="unnamed-chunk-11-2.png" alt="">&lt;!-- -->&lt;/p>
+&lt;p>&lt;img src="unnamed-chunk-12-1.png" alt="">&lt;!-- -->&lt;/p>
+&lt;p>&lt;img src="twitter_days-1.png" alt="">&lt;!-- -->&lt;/p>
+&lt;h3 id="youtube-analytics">YouTube Analytics&lt;/h3>
+&lt;p>TBA&lt;/p>
+&lt;hr></description></item><item><title>10$ smartphone microscope</title><link>https://open-neuroscience.com/post/10_smartphone_microscope/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://open-neuroscience.com/post/10_smartphone_microscope/</guid><description>&lt;p>This &lt;a href="http://www.instructables.com/id/10-Smartphone-to-digital-microscope-conversion/%20how%20to%20use%20a%20smartphone%20for%20big%20amplifications" target="_blank" rel="noopener">neat little project&lt;/a> uses some plexi-glass, lens extracted from a laser pointer to harvest the power of smartphone cameras for some very big amplifications! Yoshinok manged to see cell plasmolysis and some other cool features with it.&lt;/p>
 &lt;p>&lt;img src="https://i2.wp.com/www.instructables.com/files/deriv/FX0/QLMO/HMMF5O43/FX0QLMOHMMF5O43.MEDIUM.jpg?w=800" alt="Vegetal slice" data-recalc-dims="1" />&lt;/p></description></item><item><title>Addgene</title><link>https://open-neuroscience.com/post/addgene/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://open-neuroscience.com/post/addgene/</guid><description>&lt;p>&lt;a href="http://www.addgene.org/" target="_blank" rel="noopener">Addgene&lt;/a> is a non-profit company that makes the share of plasmids easier by making a plasmid database and linking them to the papers where they were described. In this way they take on the job of maintaining plasmids and shipping them to requesting scientists.&lt;/p></description></item><item><title>Allen Brain Map</title><link>https://open-neuroscience.com/post/allen-brain-map/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://open-neuroscience.com/post/allen-brain-map/</guid><description>&lt;p>&lt;a href="http://www.brain-map.org/" target="_blank" rel="noopener">The Brain Map&lt;/a> is one of the initiatives of the &lt;a href="http://www.alleninstitute.org/about/" target="_blank" rel="noopener">Allen Institute&lt;/a>.&lt;/p>
 &lt;p>It is a data portal that encompasses different projects:&lt;/p>
 &lt;blockquote>
